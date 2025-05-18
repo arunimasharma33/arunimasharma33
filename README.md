@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/aEaJVHXZDIxs4/giphy.gif" width="100%" alt="MasterHead GIF">
+<img src="https://media.giphy.com/media/aEaJVHXZDIxs4/giphy.gif" width="100%" height="300px" alt="MasterHead GIF">
 
 
 <h1 align="center">Hi 👋, I'm Arunima</h1>
