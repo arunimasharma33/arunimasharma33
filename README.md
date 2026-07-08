@@ -57,6 +57,7 @@ Building scalable web applications with MERN Stack while exploring AI, Machine L
 | 🏨 Home Renovation Planner | LangChain, LLMs | Multi-agent AI system that analyzes photos of a room, produces a budget-aware renovation plan, and generates a photorealistic rendering of the finished space |
 | ⚡ Power Supply Prediction | Python, Machine Learning | Internship project at Central Electricity Authority for electricity demand forecasting |
 | 🤖 Multi-Agent Research Assistant | LangChain, LLMs | AI agents collaborate to search, analyze and generate structured research reports |
+| 🤖 Online Examination Platform | React, Supabase | Online Exam Platform where teachers can create and schedule tests, check student performate with roles like admin, teacher and student |
 | 🏨 E-commerce Platform | MERN Stack | Full-stack online shopping platform with authentication and management |
 | 🌐 Personal Portfolio | React, Tailwind CSS | Responsive portfolio showcasing projects, skills and experience |
 
