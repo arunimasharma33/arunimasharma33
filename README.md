@@ -18,7 +18,7 @@ Building scalable web applications with MERN Stack while exploring AI, Machine L
 
 <img src="https://img.shields.io/badge/B.Tech-VIT%20Vellore-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/CGPA-9.02-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-9.07-orange?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-red?style=for-the-badge"/>
 
