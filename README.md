@@ -53,7 +53,7 @@ Building scalable web applications with MERN Stack while exploring AI, Machine L
 
 | Project | Tech Stack | Description |
 |----------|------------|-------------|
-| 💼InterviewMaster | MERN Stack , LLMs, LangChain, Rest APIs| Full-stack web application designed to help candidates prepare for job interviews |
+| 💼Prep Desk | MERN Stack , LLMs, LangChain, Rest APIs| Full-stack web application designed to help candidates prepare for job interviews |
 | 🏨 Home Renovation Planner | LangChain, LLMs | Multi-agent AI system that analyzes photos of a room, produces a budget-aware renovation plan, and generates a photorealistic rendering of the finished space |
 | ⚡ Power Supply Prediction | Python, Machine Learning | Internship project at Central Electricity Authority for electricity demand forecasting |
 | 🤖 Multi-Agent Research Assistant | LangChain, LLMs | AI agents collaborate to search, analyze and generate structured research reports |
